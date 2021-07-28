@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "Vars",
+        "Hello",
+        "FloatDouble",
+        "CharsBoolean",
+        "Casting",
+        "ByteShortIntLong",
+        "Operand"
+    ]
+}
