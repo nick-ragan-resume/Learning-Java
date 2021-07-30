@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "Vars",
+        "TernaryOperator",
         "Operand",
         "LogicalOperator",
         "IfThen",
@@ -9,6 +10,6 @@
         "CharsBoolean",
         "Casting",
         "ByteShortIntLong",
-        "TernaryOperator"
+        "OperatorChallenge"
     ]
 }
