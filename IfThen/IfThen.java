@@ -17,13 +17,34 @@ public class IfThen {
             System.out.println("We have an Alien.");
         };
 
-        // if isAlien is opposite the current value
+        // simplified way of saying (isAlien == false)
         if (!isAlien) {
             System.out.println("We have an alien");
         } else {
             System.out.println("No Alien here!");
         };
 
-        
+        // Conditionals
+        boolean isAlien2 = false;
+        if (isAlien2 == false)
+            System.out.println("it is not an alien, Again...");
+
+        // simplified way of saying (isAlien2 == false)
+        if (!isAlien2) {
+            System.out.println("It is not an alien 2...");
+        } else {
+            System.out.println("It is an alien, 2.");
+        };
+
+        // simplified way of saying (isAlien2 == false)
+        if (isAlien2 == true) 
+            System.out.println("It is not an alien 2...");
+            System.out.println("Will execute everytime the program is run, true/false, because we are not using code blocks");
+
+        // Value of isAlien2
+        System.out.println("The value if isAlien2... " + isAlien2);
+
+
+
     }
 }

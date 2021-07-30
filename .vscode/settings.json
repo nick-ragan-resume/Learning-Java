@@ -2,11 +2,12 @@
     "java.project.sourcePaths": [
         "Vars",
         "Operand",
+        "IfThen",
         "Hello",
         "FloatDouble",
         "CharsBoolean",
         "Casting",
         "ByteShortIntLong",
-        "IfThen"
+        "LogicalOperator"
     ]
 }
